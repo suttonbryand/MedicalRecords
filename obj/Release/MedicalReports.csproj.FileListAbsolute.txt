@@ -1,0 +1,9 @@
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Release\MedicalReports.exe.config
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Release\MedicalReports.exe.manifest
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Release\MedicalReports.application
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Release\MedicalReports.exe
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Release\MedicalReports.pdb
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\obj\Release\MedicalReports.exe.manifest
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\obj\Release\MedicalReports.application
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\obj\Release\MedicalReports.exe
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\obj\Release\MedicalReports.pdb

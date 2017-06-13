@@ -1,0 +1,10 @@
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Debug\MedicalReports.exe.config
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Debug\MedicalReports.exe
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Debug\MedicalReports.pdb
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\obj\Debug\MedicalReports.csprojResolveAssemblyReference.cache
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\obj\Debug\MedicalReports.exe
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\obj\Debug\MedicalReports.pdb
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Debug\MedicalReports.exe.manifest
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\bin\Debug\MedicalReports.application
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\obj\Debug\MedicalReports.exe.manifest
+c:\users\sutto\documents\visual studio 2017\Projects\MedicalReports\MedicalReports\obj\Debug\MedicalReports.application
